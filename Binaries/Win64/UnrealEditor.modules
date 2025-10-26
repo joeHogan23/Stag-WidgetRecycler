@@ -1,8 +1,0 @@
-{
-	"BuildId": "416547c4-f676-45d5-ae87-2d2f7c953ebb",
-	"Modules": 
-	{
-		"WidgetRecycler": "UnrealEditor-WidgetRecycler.dll",
-		"WidgetRecyclerEditor": "UnrealEditor-WidgetRecyclerEditor.dll"
-	}
-}
