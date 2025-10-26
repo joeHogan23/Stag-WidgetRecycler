@@ -1,0 +1,29 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Widget Recycler",
+	"Description": "A built in Widget Pooling System that recycles previously removed widgets. Unlike FWidgetPool, the Widget Recycler keeps widgets around until the next Garbage Collection, so it reallocates memory.",
+	"Category": "UI",
+	"CreatedBy": "Joseph Sierejko",
+	"CreatedByURL": "https://joehogan23.github.io",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "WidgetRecycler",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "WidgetRecyclerEditor",
+			"Type": "UncookedOnly",
+			"LoadingPhase": "Default"
+		}
+	],
+	"SupportURL": ""
+}

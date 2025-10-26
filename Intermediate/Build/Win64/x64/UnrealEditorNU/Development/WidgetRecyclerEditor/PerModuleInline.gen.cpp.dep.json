@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\unrealengine\\tsc_projectdeep\\plugins\\widgetrecycler\\intermediate\\build\\win64\\x64\\unrealeditornu\\development\\widgetrecyclereditor\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\unrealengine\\engine\\intermediate\\build\\win64\\x64\\unrealeditornu\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\unrealengine\\tsc_projectdeep\\plugins\\widgetrecycler\\intermediate\\build\\win64\\x64\\unrealeditornu\\development\\widgetrecyclereditor\\definitions.widgetrecyclereditor.h",
+            "c:\\unrealengine\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
